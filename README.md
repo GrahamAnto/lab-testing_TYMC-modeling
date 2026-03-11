@@ -16,6 +16,7 @@ Implications: By leveraging design science principles, this research produces a 
 Key words: Cannabis, Laboratory Testing, Regulations, Cannabis Policy, Yeast and Mold.
 
 
-ACKNOWLEDGEMENTS: We are grateful to Cannlytics and to Yahsa Kahn for obtaining, compiling, and sharing access to data obtained via the Freedom of Information Act and to Massachusetts’ Cannabis Control Commission for providing data via the Open Data Platform.
+ACKNOWLEDGEMENTS: We are grateful to Cannlytics and to Yahsa Kahn for obtaining, compiling, and sharing access to data obtained via the Freedom of Information Act and to Massachusetts’ Cannabis Control Commission for providing data via the Open Data Platform. Our paper benefited from the helpful comments of participants at the American Council of Independent Laboratories 2025 Annual Meeting.
+
 
 DECLARATION OF INTEREST: Authors H.C., J.G., and M.S. have indicated that they have no conflicts of interest with regard to the content of this article. The author G.A. is currently employed by the Maryland Cannabis Administration (MCA); however, this research and manuscript were completed prior to MCA employment and independent of the author’s state duties. The work was conducted without the use of state agency resources, funding, or time. The views expressed are strictly those of the author and do not reflect the official position or policy of the Maryland Cannabis Administration. 
